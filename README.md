@@ -16,7 +16,7 @@ Do not deploy this repository against the retired `xitcoin-testnet-1` network.
 | Address prefix | `xtc` |
 | Validator prefix | `xtcvaloper` |
 | Native currency | XTC |
-| Public explorer | https://explorer-testnet.xitcoin.org/ |
+| Public explorer | https://explorer-testnet.xitchain.com/ |
 
 The retired `xitcoin-testnet-1` files exist only for historical verification.
 Canonical network files are maintained in
