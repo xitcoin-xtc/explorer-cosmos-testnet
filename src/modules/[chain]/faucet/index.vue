@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-const faucetUrl = 'https://faucet-testnet.xitcoin.org/';
+const faucetUrl = 'https://faucet-testnet.xitchain.com/';
 </script>
 
 <template>

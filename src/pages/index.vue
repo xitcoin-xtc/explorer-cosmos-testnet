@@ -1,8 +1,8 @@
 <script lang="ts" setup>
 const explorerPath = '/xitcoin-testnet';
-const faucetUrl = 'https://faucet-testnet.xitcoin.org/';
-const apiUrl = 'https://api-testnet.xitcoin.org/';
-const rpcUrl = 'https://rpc-testnet.xitcoin.org/';
+const faucetUrl = 'https://faucet-testnet.xitchain.com/';
+const apiUrl = 'https://api-testnet.xitchain.com/';
+const rpcUrl = 'https://rpc-testnet.xitchain.com/';
 </script>
 
 <template>
@@ -41,7 +41,7 @@ const rpcUrl = 'https://rpc-testnet.xitcoin.org/';
       </a>
       <div class="rounded-xl border border-gray-200 bg-base-100 p-5 dark:border-gray-700">
         <div class="font-semibold">gRPC</div>
-        <div class="mt-2 break-all text-sm text-gray-500">grpc-testnet.xitcoin.org:443</div>
+        <div class="mt-2 break-all text-sm text-gray-500">grpc-testnet.xitchain.com:443</div>
       </div>
     </div>
   </section>
